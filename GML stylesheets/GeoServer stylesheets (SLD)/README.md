@@ -20,6 +20,8 @@ These are SLD files for OS MasterMap Integrated Transport Network in GML format 
 
   ![Screenshot](https://github.com/OrdnanceSurvey/OS-MasterMap-Integrated-Transport-Network-stylesheets/raw/master/GML%20stylesheets/GeoServer%20stylesheets%20(SLD)/images/OS_MasterMap_Integrated_Transport_Network_layer_order.png )
 
+The name of this Layer Group is the ‘layer’ your web map service (WMS) will need to call.
+
 The scale denominators have been set to allow viewing between **1:250** and **1:20 000**, although this will vary slightly by resolution.
 
 Your data should now look similar to this: 
