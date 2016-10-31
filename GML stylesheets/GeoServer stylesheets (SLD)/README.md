@@ -16,7 +16,7 @@ These are SLD files for OS MasterMap Integrated Transport Network in GML format 
 
 **5.**  Publish these styles with the data. If using the GUI then navigate to Layers > Add a new resource and choose them from the relevant database to add each file in turn. Click on publish, configure settings and then choose the matching style before saving
 
-**6.**  To create Strategi in GeoServer you will need to create a Layer Group. If using the GUI then navigate to Layer Groups > Add new layer group > Add Layer and choose each layer in turn to create the following layer order:
+**6.**  To create Integrated Transport Network in GeoServer you will need to create a Layer Group. If using the GUI then navigate to Layer Groups > Add new layer group > Add Layer and choose each layer in turn to create the following layer order:
 
   ![Screenshot](https://github.com/OrdnanceSurvey/OS-MasterMap-Integrated-Transport-Network-stylesheets/raw/master/GML%20stylesheets/GeoServer%20stylesheets%20(SLD)/images/OS_MasterMap_Integrated_Transport_Network_layer_order.png )
 
