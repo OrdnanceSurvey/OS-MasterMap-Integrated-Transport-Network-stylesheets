@@ -1,6 +1,6 @@
 # OS MasterMap Integrated Transport Network Layer
 
-These are QML files for OS MasterMap Integrated Transport Network in ESRI SHP format as translated through Dotted Eyes' InterpOSe for use in QGIS. 
+These are **QML** files for OS MasterMap Integrated Transport Network in **ESRI SHP** format as translated through Dotted Eyes' InterpOSe for use in QGIS. 
 
 *They are untested and unsupported.*
 
@@ -28,11 +28,9 @@ Your data should now look similar to this:
 
 ## Additional information
 
-[More information about how to download, apply and customise our stylesheets including a Stylesheet User Guide](http://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html)
-
 [More information about OS MasterMap Integrated Transport Network Layer](https://www.ordnancesurvey.co.uk/business-and-government/products/itn-layer.html)
 
-[More information about cartographic design at Ordnance Survey](https://www.ordnancesurvey.co.uk/resources/carto-design/)
+[For more information about data styling and visualisation, take a look at our GeoDataViz toolkit](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit)
 
 ## Licence
 
